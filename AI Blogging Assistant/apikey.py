@@ -1,5 +1,5 @@
 # open_api_keys=""
-# google_gemini_api_keys="AIzaSyAqXtQUcfgjIM0-K0oHSX7U8SkYx0wq2o4"
+# google_gemini_api_keys=""
 
 # python -m venv myvenv
 # myenv\Scripts\activate
